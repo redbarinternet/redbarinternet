@@ -8,3 +8,7 @@ Kaggle competitor: tabular ML, medical imaging, agents.
 - Medical imaging (classification and segmentation)
 - Cell tracking and microscopy
 - Agentic systems and reasoning benchmarks
+
+## Toolkit
+
+Python, PyTorch, LightGBM, XGBoost, CatBoost, scikit-learn, pandas.
